@@ -61,10 +61,3 @@
     Edit time -"Stylometry_Edit_time_Prediction" - notebook is used for edit time prediction. 
 
   </div>
-   
-
-How to train the models on the data 
-
-How to use one of your already trained models to predict unseen data 
-
-How to evaluate the output 
